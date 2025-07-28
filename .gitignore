@@ -2,4 +2,5 @@ Dataset/
 bmtfiles/
 photos/
 .venv/
+work_dataset/*
 test.py
